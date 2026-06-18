@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-me-hiere/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu perfume me hiere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-me-hiere/) |
+| **Get License** | [Official Music Licensing for Tu perfume me hiere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-me-hiere/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu perfume me hiere, mami, me deja sin calma
+> Esa mirada tuya sabe cómo robar mi alma
+> En el centro de la pista, bailando con esa brisa
+> You got me going crazy, soy adicto a tu sonrisa
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
