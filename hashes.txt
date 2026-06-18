@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu perfume me hiere
+
+This log tracks the cryptographic history and versioning for the song **Tu perfume me hiere** (tu-perfume-me-hiere).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:00:00.100240 | `v1` | `d67ff54e448e0f08f7b2d5cb660e1bcdf88a8162173c3e3be58888e849f47669` | `c63ea6a27b9edc775e79b0d797e176b01d19a59ff9db5cb6aa4c8eeb21253844` | `2026-06-18_tu-perfume-me-hiere-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-me-hiere/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu perfume me hiere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-me-hiere/) |
+| **Get License** | [Commercial Licensing for Tu perfume me hiere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-me-hiere/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d67ff54e448e0f08f7b2d5cb660e1bcdf88a8162173c3e3be58888e849f47669` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
